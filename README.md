@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <p align="center">
   <img src="assets/TauricResearch.png" alt="Clairvoyant Logo" style="width: 60%; height: auto;">
 </p>
@@ -14,6 +15,13 @@
   <br>
   <a href="https://github.com/TauricResearch/" target="_blank"><img alt="Community" src="https://img.shields.io/badge/Join_GitHub_Community-TauricResearch-14C290?logo=discourse"/></a>
 </div>
+=======
+
+# Clairvoyant: Multi-Agent LLM Financial Trading Framework & Dashboard
+
+> 🎉 **Clairvoyant** officially released! Unified multi-agent trading framework and dashboard.
+
+>>>>>>> Stashed changes
 
 ---
 
