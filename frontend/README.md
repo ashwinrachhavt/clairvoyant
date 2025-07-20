@@ -1,6 +1,6 @@
-# TradingAgents Frontend
+# Clairvoyant Frontend
 
-A modern Next.js dashboard for the TradingAgents AI trading framework.
+A modern Next.js dashboard for the Clairvoyant AI trading framework.
 
 ## Features
 
@@ -45,7 +45,7 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 ## Architecture
 
 ```
-Frontend (Next.js) → API (FastAPI) → TradingAgents → Market Data
+Frontend (Next.js) → API (FastAPI) → Clairvoyant → Market Data
 ```
 
 The frontend communicates with the FastAPI backend which uses the TradingAgents framework to provide AI-powered trading analysis.
@@ -82,7 +82,7 @@ The project uses:
 
 ## API Integration
 
-All components fetch real data from the TradingAgents API:
+All components fetch real data from the Clairvoyant API:
 
 ```typescript
 // Example API call
@@ -122,4 +122,4 @@ CMD ["npm", "start"]
 
 ## License
 
-This project is part of the TradingAgents framework.
+This project is part of the Clairvoyant framework.
