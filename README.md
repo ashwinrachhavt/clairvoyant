@@ -1,27 +1,9 @@
-<<<<<<< Updated upstream
-<p align="center">
-  <img src="assets/TauricResearch.png" alt="Clairvoyant Logo" style="width: 60%; height: auto;">
-</p>
+
 
 # Clairvoyant: Multi-Agent LLM Financial Trading Framework & Dashboard
 
 > 🎉 **Clairvoyant** officially released! Unified multi-agent trading framework and dashboard.
 
-<div align="center">
-  <a href="https://arxiv.org/abs/2412.20138" target="_blank"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.20138-B31B1B?logo=arxiv"/></a>
-  <a href="https://discord.com/invite/hk9PGKShPK" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-Clairvoyant-7289da?logo=discord&logoColor=white"/></a>
-  <a href="./assets/wechat.png" target="_blank"><img alt="WeChat" src="https://img.shields.io/badge/WeChat-Clairvoyant-brightgreen?logo=wechat&logoColor=white"/></a>
-  <a href="https://x.com/TauricResearch" target="_blank"><img alt="X Follow" src="https://img.shields.io/badge/X-TauricResearch-white?logo=x&logoColor=white"/></a>
-  <br>
-  <a href="https://github.com/TauricResearch/" target="_blank"><img alt="Community" src="https://img.shields.io/badge/Join_GitHub_Community-TauricResearch-14C290?logo=discourse"/></a>
-</div>
-=======
-
-# Clairvoyant: Multi-Agent LLM Financial Trading Framework & Dashboard
-
-> 🎉 **Clairvoyant** officially released! Unified multi-agent trading framework and dashboard.
-
->>>>>>> Stashed changes
 
 ---
 
